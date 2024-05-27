@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.form1{
+    text-align: center;
+}
+.form .input1{
+    width: 500px;
+
+}
+.divlast{
+    background-color: skyblue;
+    height: 500px;
+    width: 100%;
+}
